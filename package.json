@@ -1,0 +1,27 @@
+{
+  "name": "liri_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisDiaz79/LIRI_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisDiaz79/LIRI_bot/issues"
+  },
+  "homepage": "https://github.com/LuisDiaz79/LIRI_bot#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "imdb-api": "^4.0.2",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "prettyjson": "^1.2.1",
+    "request": "^2.88.0"
+  }
+}
