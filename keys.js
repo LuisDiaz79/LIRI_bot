@@ -6,5 +6,5 @@ exports.spotify = {
 };
 
 exports.imdb = {
-  apiKey : '5873ac1d'
+  apiKey : process.env.IMDB
 }
